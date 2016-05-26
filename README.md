@@ -1,2 +1,2 @@
 # hello-world
-Just the first repository
+Just the first repository from The Lazy Gang.
